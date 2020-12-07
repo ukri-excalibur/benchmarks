@@ -7,9 +7,6 @@ To submit a benchmark application for inclusion in the ExCALIBUR benchmark suite
 
 Once you are confident your app fulfills the requirements, open a new issue in this repository, and follow the instructions in the issue template. A reviewer will be assigned for your request and will add feedback on the issue. Once you have addressed all the reviewer's comments, your app will be added to the repository.
 
-# benchmarks
-Repository for information on benchmarks contributed as part of the ExCALIBUR programme
-
 ## BabelStream
 
 BabelStream is a benchmark used to measure the memory transfer rates to/from capacity memory. Unlike other memory bandwidth benchmarks this does not include any PCIe transfer time for attached devices. This benchmark is similar in spirit, and based on, the STREAM benchmark for CPUs.
